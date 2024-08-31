@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana Mahalakshmi R</h1>
-<h3 align="center">A passionate aspiring full-stack developer. I'm currently on a journey to master both front-end and back-end technologies. I love building web applications and exploring new tech stacks.</h3>
+<h3 align="center">An aspiring full-stack developer,currently on a journey to master both front-end and back-end technologies. I love building web applications and exploring new tech stacks.</h3>
 
 - 📫 How to reach me **sanjanar2505@gmail.com**
 
